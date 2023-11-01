@@ -1,2 +1,2 @@
 # taught
-just for fun
+python class 1402
