@@ -6,8 +6,8 @@ This repo is dedicated to what I've taught to my students at school.
 
 - [Common Data Structures](#common-data-structures-in-python)
   - [Dictionaries](#dictionaries-maps-and-hashtables)
-  - [Key Takeaways](#key-takeaways)
-- [Arrays](#array-data-structures)
+  - [Arrays](#array-data-structures)
+- [Data Base](database/readme.md)
 
 ## Common Data Structures in Python
 
